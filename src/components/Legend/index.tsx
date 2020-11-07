@@ -1,5 +1,3 @@
-import { transform } from "typescript";
-
 // @flow 
 import * as React from 'react';
 import './index.css';

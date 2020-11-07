@@ -1,5 +1,4 @@
 // @flow 
-import { clear } from 'console';
 import { createChart, CrosshairMode, ISeriesApi } from 'lightweight-charts';
 import * as React from 'react';
 import { cryptoHttp } from '../../http';
